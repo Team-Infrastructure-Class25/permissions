@@ -1,5 +1,5 @@
 # permissions
-#Write a shell script to accept a file name from user. Check whether file has all the permissions if not assign the respective permissions to that file. 
+#shell script to accept a file name from user. Check whether file has all the permissions if not assign the respective permissions to that file. 
 #!/bin/bash
 # Shell script to find out whether file has read, write and execute 
 # permission
