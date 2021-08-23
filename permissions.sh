@@ -23,7 +23,7 @@ sleep 1s
 
 if [ $R == No ] || [ $W == No ] || [ $X == No ]
 then
-echo "Assigning full permissions to $file ----"
+echo "Assigning full permissions to this $file ----"
 echo ""
 sleep 2
 
